@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="nezor"
-          fetch="https://github.com/opengapps />
+          fetch="https://github.com/opengapps/>
 
   <!-- General repos -->
   <project path="vendor/opengapps/build" name="vendor_opengapps_build" remote="pixel" />
